@@ -23,8 +23,8 @@
 
 ## 📂 TIL 정리
 
-- [📅 Daily TIL](til/daily) – 날마다 기록한 TIL 모음
-- [🗓️ Weekly TIL](til/weekly) – 주간 요약 모음
+- [📅 Daily TIL](https://github.com/qkeclaeo/Heonik/tree/main/daily) – 날마다 기록한 TIL 모음
+- [🗓️ Weekly TIL](https://github.com/qkeclaeo/Heonik/tree/main/weekly) – 주간 요약 모음
 
 
 ---
