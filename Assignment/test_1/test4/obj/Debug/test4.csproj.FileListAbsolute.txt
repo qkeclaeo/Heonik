@@ -1,0 +1,7 @@
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\bin\Debug\test4.exe.config
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\bin\Debug\test4.exe
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\bin\Debug\test4.pdb
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\obj\Debug\test4.csproj.AssemblyReference.cache
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\obj\Debug\test4.csproj.CoreCompileInputs.cache
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\obj\Debug\test4.exe
+C:\Users\qkgjd\source\repos\SpartaDungeon_AllInOne_Framework472\test4\obj\Debug\test4.pdb
